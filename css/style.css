@@ -508,6 +508,9 @@ a:hover {
     width: 25%;
     margin-bottom: 50px;
 }
+.silk-hero:hover {
+    transform: scale(1.01);
+}
 @media (min-width: 361px) and (max-width: 767px) {
     .header-container h1{
         font-size: 35px;
